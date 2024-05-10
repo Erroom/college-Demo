@@ -1,3 +1,4 @@
 # college-Demo
 This is my first repository.
-Author-Anit Badhai
+<br>
+<b>Author-Anit Badhai</b>
